@@ -1,5 +1,5 @@
 # nodelight lua
-#*UPDATE: The app is no more avaialble on google paly store and the service is no longer maintaned by original creator.   
+*UPDATE: The app is no more avaialble on google paly store and the service is no longer maintaned by original creator. *
 
 
 This script is a lua port of original arduino code for nodelight application
