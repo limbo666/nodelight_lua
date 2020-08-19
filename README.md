@@ -1,4 +1,6 @@
 # nodelight lua
+#*UPDATE: The app is no more avaialble on google paly store and the service is no longer maintaned by original creator.   
+
 
 This script is a lua port of original arduino code for nodelight application
 Nodelight is an android application with four output controls. It communicates with end devices using a free service (requires registration).
