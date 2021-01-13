@@ -1,4 +1,4 @@
-# nodelight lua
+# nodelight lua (deprecated / obsolete)
 *UPDATE: The app is no more avaialble on google paly store and the service is no longer maintaned by original creator. *
 
 
